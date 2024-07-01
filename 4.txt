@@ -1,1 +1,2 @@
 Exchange meta information rather than the content
+Ovaj file ćemo sada ažurirati u feature9 grani
