@@ -1,3 +1,4 @@
 dFlipcard
 dSolution
-Ažuriramo 1.txt u feature9
+Ažuriramo 1.txt u feature9 pa stage
+Ažuriramo opet 1.txt u feature9 pa commit (bez stagea)
